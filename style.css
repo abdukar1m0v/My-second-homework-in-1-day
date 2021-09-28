@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: crimson;
+}
+img{
+    border-radius: 1000px;
+    
+}
+body{
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+ol{
+    border: 3px inset;
+    color: crimson;
+    width: 100px;
+    height: 0px auto;
+    margin: 0% auto;
+    background: yellow;
+}
+body{
+background:url(https://wallpaperaccess.com/full/1489193.jpg)
+
+}
+ul{
+    color: crimson;
+    border: 3px outset ;
+    width: 100px;
+    height: 0px auto;
+    margin: 0px auto;
+    background: pink;
+}
+h4{
+    color: crimson;
+}
